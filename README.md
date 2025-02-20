@@ -5,7 +5,8 @@
 - 📫 [LinkedIn](https://www.linkedin.com/in/emilycogsdill/)
 - 🚀 Current (since Aug 2021): **Staff Software Engineer** at **[Community Tech Alliance](https://communitytechalliance.org)**.
     - Cloud infrastructure for data warehousing and ETL (so much ETL).
-    - Python, SQL, BigQuery, Airflow, dbt, Google Cloud Platform, Docker, Kubernetes, Terraform
+    - Python, SQL, BigQuery, Airflow, dbt, Google Cloud Platform, AWS, Docker, Kubernetes, Terraform, Django, React
+    - Technical leadership, people management, architecture design, team development, mentorship
 - 👀 Previous:
   <details>
   <summary>Click to expand</summary>
