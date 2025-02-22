@@ -27,10 +27,12 @@ These are for fun and education - or at least they better be, because I'm sure n
 ### ✂️ [List Cutter](https://list-cutter.emilyflam.be)
 A web app that helps you cut lists from CSV files using user-provided filters provided in SQL-like WHERE logic. **Django** backend, **React** frontend, deployed on **AWS EC2**.
 
+> [list-cutter.emilyflam.be](https://list-cutter.emilyflam.be)
+
+> [GitHub Repo](https://github.com/emily-flambe/list-cutter)
+
 ### ♟️ [Chesscom Helper](https://chesscomhelper.com)
 A web app that uses the [Chess.com API](https://www.chess.com/news/view/published-data-api) to do... things. I have plans, I promise, but it's still a work in progress. Built with a **Django** backend and **React** frontend using **Material-UI**, containerized with **Docker** and deployed on **AWS EC2**.
-
-This project is live on the public internet! 
 
 > [ChesscomHelper.com](https://chesscomhelper.com)
 
