@@ -5,7 +5,7 @@
 - 📫 [LinkedIn](https://www.linkedin.com/in/emilycogsdill/)
 - ✍️ [Some Sort of Blog](https://baba-is.win)
 - 🚀 Current (since Aug 2021): **Staff Software Engineer** at **[Community Tech Alliance](https://communitytechalliance.org)**.
-    - Cloud infrastructure for data warehousing and ETL (so much ETL).
+    - Cloud infrastructure for data warehousing and (lots of) ETL.
     - Python, SQL, BigQuery, Airflow, dbt, Google Cloud Platform, AWS, Docker, Kubernetes, Terraform, Django, React
     - Technical leadership, people management, architecture design, team development, mentorship
 - 👀 Previous:
@@ -27,6 +27,8 @@ These are for fun and education - or at least they better be, because I'm sure n
 
 ### ✂️ [List Cutter](https://list-cutter.emilyflam.be)
 A web app that helps you cut lists from CSV files using user-provided filters provided in SQL-like WHERE logic. **Django** backend, **React** frontend, deployed on **AWS EC2**.
+
+This is NOT a CRM.... or is it?
 
 > [list-cutter.emilyflam.be](https://list-cutter.emilyflam.be)
 
