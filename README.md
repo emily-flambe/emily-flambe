@@ -3,7 +3,7 @@
 ## 💅 whoami
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/emilycogsdill/)
-- ✍️ [Baba is Blog](https://baba-is.win) - see also the [repo](https://github.com/emily-flambe/baba-is-win)
+- ✍️ [Some Sort of Blog](https://baba-is.win)
 - 🚀 Current (since Aug 2021): **Staff Software Engineer** at **[Community Tech Alliance](https://communitytechalliance.org)**.
     - Cloud infrastructure for data warehousing and ETL (so much ETL).
     - Python, SQL, BigQuery, Airflow, dbt, Google Cloud Platform, AWS, Docker, Kubernetes, Terraform, Django, React
