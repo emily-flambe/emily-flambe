@@ -28,14 +28,18 @@
 These are for fun and education - or at least they better be, because I'm sure not making any money off of them. Also: I used to have these deployed on AWS, and then I ran out of AWS Free Tier resources 🫠
 
 ### ✂️ [List Cutter]([https://list-cutter.emilyflam.be](https://github.com/emily-flambe/list-cutter))
-A web app that helps you cut lists from CSV files using user-provided filters provided in SQL-like WHERE logic. **Django** backend, **React** frontend, deployed on **AWS EC2**.
+A web app that helps you cut lists from CSV files using user-provided filters provided in SQL-like WHERE logic.
+
+**Django** backend, **React** frontend, previously deployed on **AWS EC2**.
 
 This is NOT a CRM.... or is it?
 
 ---
 
 ### ♟️ [Chesscom Helper](https://github.com/emily-flambe/chesscom-helper)
-A web app that uses the [Chess.com API](https://www.chess.com/news/view/published-data-api) to do... things. I have plans, I promise, but it's still a work in progress. Built with a **Django** backend and **React** frontend using **Material-UI**, containerized with **Docker** and deployed on **AWS EC2**.
+A web app that uses the [Chess.com API](https://www.chess.com/news/view/published-data-api) to do things. Still a work in progress. My vision is to enable users to subscribe to chess.com players and receive email notifications when they are in a live match!
+
+Built with a **Django** backend and **React** frontend using **Material-UI**, containerized with **Docker** and (previously) deployed on **AWS EC2**.
 
 ---
 
