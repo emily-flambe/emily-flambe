@@ -7,7 +7,7 @@
 - 🚀 Current (since Aug 2021): **Staff Software Engineer** at **[Community Tech Alliance](https://communitytechalliance.org)**.
     - Cloud infrastructure for data warehousing and (lots of) ETL.
     - Python, SQL, BigQuery, Airflow, dbt, Google Cloud Platform, AWS, Docker, Kubernetes, Terraform, Django, React
-    - Technical leadership, people management, architecture design, team development, mentorship
+    - People management, technical leadership, architecture design, team development, mentorship
 - 👀 Previous:
   <details>
   <summary>Click to expand</summary>
@@ -23,27 +23,19 @@
 
 ## 🏆 Github Projects
 
-These are for fun and education - or at least they better be, because I'm sure not making any money off of them....
+These are for fun and education - or at least they better be, because I'm sure not making any money off of them. Also: I used to have these deployed on AWS, and then I ran out of AWS Free Tier resources 🫠
 
-### ✂️ [List Cutter](https://list-cutter.emilyflam.be)
+### ✂️ [List Cutter]([https://list-cutter.emilyflam.be](https://github.com/emily-flambe/list-cutter))
 A web app that helps you cut lists from CSV files using user-provided filters provided in SQL-like WHERE logic. **Django** backend, **React** frontend, deployed on **AWS EC2**.
 
 This is NOT a CRM.... or is it?
 
-> [list-cutter.emilyflam.be](https://list-cutter.emilyflam.be)
+---
 
-> [GitHub Repo](https://github.com/emily-flambe/list-cutter)
-
-### ♟️ [Chesscom Helper](https://chesscomhelper.com)
+### ♟️ [Chesscom Helper](https://github.com/emily-flambe/chesscom-helper)
 A web app that uses the [Chess.com API](https://www.chess.com/news/view/published-data-api) to do... things. I have plans, I promise, but it's still a work in progress. Built with a **Django** backend and **React** frontend using **Material-UI**, containerized with **Docker** and deployed on **AWS EC2**.
-
-> [ChesscomHelper.com](https://chesscomhelper.com)
-
-> [GitHub Repo](https://github.com/emily-flambe/chesscom-helper)
 
 ---
 
-### 🤖 Ask Reddit Without Asking Reddit
+### 🤖 [Ask Reddit Without Asking Reddit](https://github.com/emily-flambe/ask-reddit-without-asking-reddit)
 This web application uses the power of (so-called) "Artificial Intelligence" (dubious!) to query Reddit and summarize the content of posts in order to "answer" questions. (Note: this really doesn't work well at all, but I had fun playing with the OpenAI and Reddit APIs.)
-
-> [GitHub Repo](https://github.com/emily-flambe/ask-reddit-without-asking-reddit)
