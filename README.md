@@ -6,7 +6,7 @@
 - ✍️ [Some Sort of Blog](https://baba-is.win)
 - 🚀 Current (since Aug 2021): **Staff Software Engineer** at **[Community Tech Alliance](https://communitytechalliance.org)**.
     - **Founding engineer** with roles spanning **people management** and **technical leadership**.
-    - 🥗 SKILLS SALAD:
+    - Skills:
       - Software Engineering, Data Engineering, Cloud Infrastructure (GCP and AWS), and full-stack (Django and React).
       - Python, SQL, BigQuery, Airflow, dbt, Google Cloud Platform, AWS, Docker, Kubernetes, Terraform, Django, React
       - People management, technical leadership, architecture design, team development, mentorship
