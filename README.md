@@ -31,6 +31,8 @@ These are for fun and education - or at least they better be, because I'm sure n
 
 I wanted a personal note-taking tool with some features but not all the features, and certainly not for any dang $10/month. Good grief! So I vibe-coded my own tool. For local deployment ONLY by serious people ONLY.
 
+---
+
 ### ✂️ [List Cutter]([https://list-cutter.emilyflam.be](https://github.com/emily-flambe/list-cutter))
 A web app that helps you cut lists from CSV files using user-provided filters provided in SQL-like WHERE logic.
 
