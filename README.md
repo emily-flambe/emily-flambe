@@ -33,12 +33,12 @@ I wanted a personal note-taking tool with some features but not all the features
 
 ---
 
-### ✂️ [List Cutter]([https://list-cutter.emilyflam.be](https://github.com/emily-flambe/list-cutter))
+### ✂️ [List Cutter](https://github.com/emily-flambe/list-cutter)
 A web app that helps you cut lists from CSV files using user-provided filters provided in SQL-like WHERE logic.
 
-**Django** backend, **React** frontend, previously deployed on **AWS EC2**.
+**Django** backend, **React** frontend, previously deployed on **AWS EC2** but then I spent all my free tier credits, so this is mostly a historical relic of a fascinating time in my life.
 
-This is NOT a CRM.... or is it?
+This is NOT a CRM.
 
 ---
 
