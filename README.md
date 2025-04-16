@@ -25,7 +25,10 @@
 
 ## 🏆 Github Projects
 
-These are for fun and education - or at least they better be, because I'm sure not making any money off of them. Also: I used to have these deployed on AWS, and then I ran out of AWS Free Tier resources 🫠
+These are for fun and education - or at least they better be, because I'm sure not making any money off of them.
+
+---
+---
 
 ### 🐐🗒️ [Notes for Goats](https://github.com/emily-flambe/notes-for-goats)
 
