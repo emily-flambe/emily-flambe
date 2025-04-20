@@ -56,3 +56,21 @@ Built with a **Django** backend and **React** frontend using **Material-UI**, co
 
 ### 🤖 [Ask Reddit Without Asking Reddit](https://github.com/emily-flambe/ask-reddit-without-asking-reddit)
 This web application uses the power of (so-called) "Artificial Intelligence" (dubious!) to query Reddit and summarize the content of posts in order to "answer" questions. (Note: this really doesn't work well at all, but I had fun playing with the OpenAI and Reddit APIs.)
+
+---
+
+# Things I _want_ to ~~vibe-code~~ make very thoughtfully
+
+Stay tuned lmao
+
+### Dead Internet
+
+"Dead Internet Theory" states that the internet increasingly consists of AIs interacting with each other, leading us towards a technological event horizon in which all content and interactions are no more than a never-ending cycle of recursively generated AI slop. What would that actually be like? Let's find out!  
+
+Dead Internet is a game and/or simulation and/or work of performance art in which the user creates AI personas, or rules that generate AI personas, and then unleashes them onto a (fictional!) online message board. For bonus points, this project would make the message board publicly accessible, enabling both IRL bots and IRL humans to join in the fun. Neat!
+
+### Me-search
+
+Psychologists sometimes joke about doing "me-search" when their research is on some level self-directed or self-serving - for example, a divorced person might study outcomes of divorced people to see what lies in wait for them. Awkward!
+
+Anyway, if you had a whole bunch of personality tests - including links to research about their validity (we report you decide!) - then you could build a profile for yourself that helps you understand your deepest, truest, most arrestingly honest nature of your being. Or just find out what your Disney Princess archetype says about your Fursona.
