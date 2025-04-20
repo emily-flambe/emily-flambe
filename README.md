@@ -71,6 +71,6 @@ Dead Internet is a game and/or simulation and/or work of performance art in whic
 
 ### Me-search
 
-Psychologists sometimes joke about doing "me-search" when their research is on some level self-directed or self-serving - for example, a divorced person might study outcomes of divorced people to see what lies in wait for them. Awkward!
+Psychologists sometimes joke about doing "me-search" when their research could be construed as being self-directed or self-serving - for example, a divorced person might study outcomes of divorced people to see what lies in wait for them. Awkward!
 
-Anyway, if you had a whole bunch of personality tests - including links to research about their validity (we report you decide!) - then you could build a profile for yourself that helps you understand your deepest, truest, most arrestingly honest nature of your being. Or just find out what your Disney Princess archetype says about your Fursona.
+Anyway, if you had a whole bunch of personality tests - including links to research about their validity (we report you decide!) - then you could build a profile for yourself that helps you understand your deepest, truest, most arrestingly honest nature of your being. You could evaluate peer-reviewed research before choosing which personality measurements to use, and/or just mess around and find out what your Disney Princess archetype says about your Fursona.
