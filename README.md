@@ -1,25 +1,22 @@
 # Emily Cogsdill: the README
 
-## 💅 whoami
+## Fun personal information
 
-- 📫 [LinkedIn](https://www.linkedin.com/in/emilycogsdill/)
-- ✍️ [Some Sort of Blog](https://baba-is.win)
-- 🚀 Current (since Aug 2021): **Staff Software Engineer** at **[Community Tech Alliance](https://communitytechalliance.org)**.
-    - **Founding engineer** with roles spanning **people management** and **technical leadership**.
-    - Skills:
-      - Software Engineering, Data Engineering, Cloud Infrastructure (GCP and AWS), and full-stack (Django and React).
-      - Python, SQL, BigQuery, Airflow, dbt, Google Cloud Platform, AWS, Docker, Kubernetes, Terraform, Django, React
-      - People management, technical leadership, architecture design, team development, mentorship
-- 👀 Previous:
+I am a serious person:
+
+- [LinkedIn](https://www.linkedin.com/in/emilycogsdill/)
+- [Some Sort of (terrible) Blog](https://baba-is.win)
+- Current (since Apr 2025): **Director of Engineering - Exchange** at **[Democratic Data Exchange](https://demexchange.com)**
+- Previous:
   <details>
   <summary>Click to expand</summary>
-
-  - 🏋️‍♀️ 2021: **Staff Data Engineer** at **MyFitnessPal** – Built pipelines to support product analytics.
-  - 🇺🇸 2020: **Data Engineer** at **Biden for President** – Engineering support for Paid Media Analytics and Election Night Reporting.
-  - ✈️ 2017-2020: **Staff Data Analyst** at **Expedia** – Business performance insights with innovative anomaly detection strategies.
-  - 📊 2015-2017: **Senior Data Analyst** at **MyFitnessPal** – Dashboards and experimentation.
-  - 🧐 2015: **User Researcher** at **MyFitnessPal** – User interviews, user testing, surveys, weird queries.
-  - 🎓 2011-2015: **PhD Student** at **Harvard University** (Psychology) – Writing and speaking (but fancy).
+  - 2021-2025: **[Community Tech Alliance](https://communitytechalliance.org)**, founding engineer with multiple roles: Senior Software Engineer, Engineering Manager, Staff Software Engineer. Code and infra to set up a bunch of data pipelines for mission-driven organizations. Neat!
+  - 2021: **Staff Data Engineer** at **MyFitnessPal** – Built pipelines to support product analytics.
+  - 2020: **Data Engineer** at **Biden for President** – Engineering support for Paid Media Analytics and Election Night Reporting.
+  - 2017-2020: **Staff Data Analyst** at **Expedia** – Business performance insights with innovative anomaly detection strategies.
+  - 2015-2017: **Senior Data Analyst** at **MyFitnessPal** – Dashboards and experimentation.
+  - 2015: **User Researcher** at **MyFitnessPal** – User interviews, user testing, surveys, _creative_ SQL.
+  - 2011-2015: **PhD Student** at **Harvard University** (Psychology) – I earned my PhD by asking children to tell me what they think about creepy computer-generated faces. Neat! Oh and then I wrote a billion pages about it
 
   </details>
 
