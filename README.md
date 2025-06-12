@@ -2,7 +2,7 @@
 
 ## Fun personal information
 
-I am a serious person:
+Contrary to popular belief*, I am a serious person:
 
 - [LinkedIn](https://www.linkedin.com/in/emilycogsdill/)
 - [Some Sort of (terrible) Blog](https://baba-is.win)
@@ -20,6 +20,8 @@ I am a serious person:
   - 2011-2015: **PhD Student** at **Harvard University** (Psychology) – I earned my PhD by asking children to tell me what they think about creepy computer-generated faces. Neat! Oh and then I wrote a billion pages about it.
   
   </details>
+
+*????
 
 ---
 
