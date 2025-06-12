@@ -61,6 +61,10 @@ Stay tuned lmao
 
 Dead Internet is a game and/or simulation and/or work of performance art in which the user creates AI personas, or rules that generate AI personas, and then unleashes them onto a (fictional!) online message board. For bonus points, this project would make the message board publicly accessible (no longer fictional!), enabling both IRL bots and IRL humans to join in the fun. Neat!
 
+### ¿Anonymous? Feedback Form
+
+A web app where users can collect free-text responses in a form, which are then anonymized by way of having an LLM regenerate the content using a special dialect, or possibly translating the text into cryptic riddles for the question-asker to solve. Security through obscurity, but with people and words?
+
 ### Me-search
 
 Psychologists sometimes joke about doing "me-search" when their research could be construed as being self-directed or self-serving - for example, a divorced person might study outcomes of divorced people to see what lies in wait for them. Awkward!
