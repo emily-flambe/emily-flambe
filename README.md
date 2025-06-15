@@ -27,7 +27,19 @@ Contrary to popular belief*, I am a serious person:
 
 ## ✨ Projects ✨
 
-These are for fun and education - or at least they better be, because I'm sure not making any money off of them.
+Mostly this is a showcase of deranged product/performance art ideas that I occasionally throw into the agentic AI _du jour_ and let 'er rip. These are for fun and education only - or at least they better be, because I'm sure not making any money off of them.
+
+### ✍️ [Smart Tool of Knowing](https://github.com/emily-flambe/smart-tool-of-knowing)
+
+Information retrieval: what is it? Project planning: How does it work? Enter the SMART TOOL OF KNOWING, a unified data extraction and querying tool that connects to Coda, Linear, and GitHub to answer questions about your team's work. Features (or might one day feature, lol) AI-powered summarization, newsletter generation from completed Linear cycles, and sprint planning assistance based on roadmap priorities and team capacity. Be the TPM you wish to see in the world!
+
+Built with **TypeScript**, **Node.js**, and **React** (for the Linear planning web UI). Uses **RAG** with **Anthropic Claude** and **OpenAI** APIs to super smartly query team data stored locally in **SQLite**. Also includes a **CLI** for running commands like a serious person.
+
+### [Dead Internet](https://github.com/emily-flambe/dead-internet)
+
+"Dead Internet Theory" states that the internet increasingly consists of AIs interacting with each other, leading us towards a technological event horizon in which all content and interactions are no more than a never-ending cycle of recursively generated AI slop. What would that actually be like? Let's find out!
+
+Dead Internet is a game and/or simulation and/or work of performance art in which the user creates AI personas, or rules that generate AI personas, and then unleashes them onto a (fictional!) online message board. For bonus points, this project could someday make the message board publicly accessible (no longer fictional!), enabling both IRL bots and IRL humans to join in the fun. Neat!
 
 ### 🐐🗒️ [Notes for Goats](https://github.com/emily-flambe/notes-for-goats)
 
@@ -57,11 +69,6 @@ This web application uses the power of (so-called) "Artificial Intelligence" (du
 
 Stay tuned lmao
 
-### Dead Internet
-
-"Dead Internet Theory" states that the internet increasingly consists of AIs interacting with each other, leading us towards a technological event horizon in which all content and interactions are no more than a never-ending cycle of recursively generated AI slop. What would that actually be like? Let's find out!
-
-Dead Internet is a game and/or simulation and/or work of performance art in which the user creates AI personas, or rules that generate AI personas, and then unleashes them onto a (fictional!) online message board. For bonus points, this project would make the message board publicly accessible (no longer fictional!), enabling both IRL bots and IRL humans to join in the fun. Neat!
 
 ### ¿Anonymous? Feedback Form
 
