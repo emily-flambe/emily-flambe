@@ -1,8 +1,4 @@
-# Emily Cogsdill: the README
-
-## Fun personal information
-
-Contrary to popular belief*, I am a serious person:
+# Emily Cogsdill: a README
 
 - [LinkedIn](https://www.linkedin.com/in/emilycogsdill/)
 - [Some Sort of (terrible) Blog](https://baba-is.win)
