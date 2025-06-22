@@ -2,9 +2,9 @@
 
 Contrary to popular belief*, I am a serious person:
 
+- [Some Sort of (terrible) Personal Site](https://emilycogsdill.com) (or just check out the [source code](https://github.com/emily-flambe/baba-is-win))
 - [LinkedIn](https://www.linkedin.com/in/emilycogsdill/)
-- [Some Sort of (terrible) Blog](https://baba-is.win)
-- Current (since Apr 2025): **Director of Engineering - Exchange** at **[Democratic Data Exchange](https://demexchange.com)**
+- Current: **Director of Engineering** at **[Democratic Data Exchange](https://demexchange.com)**
 - Previous:
   <details>
   <summary>Click to expand</summary>
