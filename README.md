@@ -61,7 +61,7 @@ Built with a **Django** backend and **React** frontend using **Material-UI**, co
 
 This web application uses the power of (so-called) "Artificial Intelligence" (dubious!) to query Reddit and summarize the content of posts in order to "answer" questions. (Note: this really doesn't work well at all, but I had fun playing with the OpenAI and Reddit APIs.)
 
-The fun thing about this project is that it predicted, with stunning clarity, the actual Reddit feature now known as Reddit Answers, which was [released in January 2025](https://www.reddit.com/r/reddit/comments/1habm06/for_all_your_questions_introducing_reddit_answers/). Given that my low-quality take on the concept was in November 2025, that probably means we came up with the idea at around the same time. OR they snuck into my dreams and STOLE IT
+The fun thing about this project is that it predicted, with stunning clarity, the actual Reddit feature now known as Reddit Answers, which was [released in January 2025](https://www.reddit.com/r/reddit/comments/1habm06/for_all_your_questions_introducing_reddit_answers/). Given that my low-quality take on the concept was in November 2024, that probably means we came up with the idea at around the same time. OR they snuck into my dreams and STOLE IT
 
 ---
 
