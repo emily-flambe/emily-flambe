@@ -25,6 +25,8 @@ Contrary to popular belief*, I am a serious person:
 
 ## ✨ Projects ✨
 
+https://emilycogsdill.com/museum
+
 Mostly this is a showcase of deranged product/performance art ideas that I occasionally throw into the agentic AI _du jour_ and let 'er rip. These are for fun and education only - or at least they better be, because I'm sure not making any money off of them.
 
 ### ✍️ [Smart Tool of Knowing](https://github.com/emily-flambe/smart-tool-of-knowing)
